@@ -1,0 +1,14 @@
+{
+  "allowedBlockId": [
+  "msd:hall_seat_middle"],
+  "allowedBlockTag": [
+    "minecraft:stairs",
+    "minecraft:slabs"
+  ],
+  "stairsOffset": false,
+  "ensurePlayerWontSuffocate": true,
+  "mustBeEmptyHandToSit": true,
+  "blockMustBeLowerThanPlayer": true,
+  "mustNotBeObstructed": false,
+  "maxDistance": 0.0
+}

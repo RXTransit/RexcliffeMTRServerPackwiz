@@ -1,0 +1,26 @@
+{
+  "globalResources": {
+    "applyOnTop": true,
+    "packs": [
+      "file/Bare Metals 1.4 1.20.1.zip",
+      "file/Bare Bones x The Aether.zip",
+      "file/Bare Bones x Fresh Animations 1.9.2.zip",
+      "file/Bare Bones 1.20.zip",
+      "file/BareBones X TrafficCraft.zip",
+      "file/FreshAnimations_v1.9.2.zip",
+      "file/Short Swords.zip",
+      "continuity:glass_pane_culling_fix",
+      "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+      "file/Bare Bones - Clear CG - 1.21.4.zip",
+      "file/DiagonalPerfectRails2.1.zip",
+      "file/MTR Lang Fix US+AU.zip",
+      "file/MTR4 Buses 29-03-25.zip",
+      "file/New Torches.zip",
+      "file/Rexcliffe.zip",
+      "file/Fast Better Grass.zip",
+      "file/RNET LIGHTACE 1999T.zip",
+      "file/Villager Dollar.zip",
+      "file/§a§lVocal Villagers §r§71.1.zip"
+    ]
+  }
+}

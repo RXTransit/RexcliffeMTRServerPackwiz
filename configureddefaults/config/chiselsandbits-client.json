@@ -1,0 +1,112 @@
+{
+  "settings": {
+    "bit-bag": {
+      "invert-durability-bar-indication": false
+    },
+    "placement": {
+      "render-mode": {
+        "success": "GHOST_BLOCK_MODEL",
+        "failed": "GHOST_BLOCK_MODEL_SOLID_COLOR"
+      },
+      "color": {
+        "success": [
+          0.1882353,
+          0.47058824,
+          0.7882353,
+          0.7058824
+        ],
+        "not-fitting": [
+          0.7176471,
+          0.25490198,
+          0.05490196,
+          0.7058824
+        ],
+        "missing-bits-or-space": [
+          1.0,
+          0.85882354,
+          0.34509805,
+          0.7058824
+        ]
+      }
+    },
+    "chiseling-previews": {
+      "default": {
+        "colors": {
+          "chiseling": [
+            0.85,
+            0.0,
+            0.0,
+            0.65
+          ],
+          "placement": [
+            0.0,
+            0.85,
+            0.0,
+            0.65
+          ]
+        }
+      },
+      "renderer": "chiselsandbits:default",
+      "debug": {
+        "enabled": false,
+        "mutator": {
+          "colors": {
+            "chiseling": [
+              0.0,
+              0.0,
+              0.85,
+              0.65
+            ],
+            "placement": [
+              0.85,
+              0.85,
+              0.0,
+              0.65
+            ]
+          }
+        }
+      }
+    },
+    "selected-tool-mode-icons": {
+      "renderer": "chiselsandbits:group"
+    },
+    "invert-pick-block-behaviour": false,
+    "clipboard": {
+      "size": 64,
+      "add-broken-blocks": true,
+      "add-picked-blocks": true
+    },
+    "patterns": {
+      "export-path": "./chiselsandbits/patterns"
+    },
+    "warnings": {
+      "show-cool-down-error": false
+    },
+    "interactions": {
+      "scrolling-changes-mode": true
+    }
+  },
+  "performance": {
+    "caches": {
+      "sizes": {
+        "bit-storage-content-models": 100,
+        "block-models": 1000,
+        "block-faces": 1000000,
+        "cull-testing": 1000,
+        "stack-models": 100
+      }
+    },
+    "lighting": {
+      "extract-lighting-values-from-faces": true,
+      "extract-lighting-values-from-blockstates": false
+    },
+    "model-building": {
+      "thread-count": 6
+    }
+  },
+  "gui": {
+    "radial-menu": {
+      "display-mouse-indicator": false
+    }
+  }
+}

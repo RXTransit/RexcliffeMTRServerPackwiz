@@ -1,0 +1,49 @@
+fullscreenButtons = true
+#Range: 0 ~ 11
+newFrontierShape = 6
+#Range: 0 ~ 999
+newFrontierShapeWidth = 10
+#Range: 0 ~ 999
+newFrontierShapeRadius = 20
+#Range: 0 ~ 7
+newFrontierChunkShape = 0
+#Range: 0 ~ 32
+newFrontierChunkShapeWidth = 5
+#Range: 0 ~ 32
+newFrontierChunkShapeLength = 5
+#Allowed Values: Vertex, Chunk
+newFrontierMode = "Vertex"
+#Allowed Values: Info, Edit, Nothing
+afterCreatingFrontier = "Edit"
+pasteName = false
+pasteVisibility = true
+pasteColor = true
+pasteBanner = true
+pasteOptionsVisible = false
+fullscreenVisibility = "Custom"
+fullscreenNameVisibility = "Custom"
+fullscreenOwnerVisibility = "Custom"
+minimapVisibility = "Custom"
+minimapNameVisibility = "Custom"
+minimapOwnerVisibility = "Custom"
+titleAnnouncementAboveHotbar = true
+announceUnnamedFrontiers = false
+hideNamesThatDontFit = true
+polygonsOpacity = 0.4
+snapDistance = 1
+filterFrontierType = "All"
+filterFrontierOwner = "All"
+filterFrontierDimension = "all"
+
+[hud]
+	enabled = true
+	autoAdjustAnchor = true
+	snapToBorder = true
+	bannerSize = 3
+	slot1 = "Name"
+	slot2 = "Owner"
+	slot3 = "Banner"
+	anchor = "MinimapHorizontal"
+	xPosition = 0
+	yPosition = 0
+

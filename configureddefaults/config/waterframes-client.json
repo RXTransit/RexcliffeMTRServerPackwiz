@@ -1,0 +1,9 @@
+{
+  "General": {
+    "overrideServerConfig": false,
+    "clientUseMultimedia": false,
+    "clientKeepsRendering": false,
+    "clientShaderMode": false,
+    "forceDevMode": false
+  }
+}
