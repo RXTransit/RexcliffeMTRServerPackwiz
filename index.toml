@@ -3697,14 +3697,6 @@ file = "configureddefaults/config/panorama_screens/settings.json"
 hash = "7688da256aa45808262ca17851a80e862511625009d6310e6f72e340c0f03564"
 
 [[files]]
-file = "configureddefaults/config/paxi/resourcepack_load_order.json"
-hash = "eaab8e6b7aeefc7e8822d64e14d1cd81c62b4e39beb17cf61019f811ffeab062"
-
-[[files]]
-file = "configureddefaults/config/paxi/resourcepacks/Extract-Resource-Packs-Here.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "configureddefaults/config/pehkui/config.json"
 hash = "03566f5b722d000ee785cccf8a55651c75c7bc00fea16d2538899578188ebb32"
 
@@ -8084,11 +8076,6 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
-hash = "58e0dcbd933909735c31a0da3009fc05276b322196026137ef39da9a50525d8d"
-metafile = true
-
-[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
@@ -8131,6 +8118,11 @@ metafile = true
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "0cd339450fbb74cebddfc4aa9599a98d0bdc9dc0e3a82d9d5456007127f94d2d"
+metafile = true
+
+[[files]]
+file = "mods/resourcepackupdater.pw.toml"
+hash = "a4d73c886407655e400cef8e052a1ecb30b85c3697ebe3499a8d5b358b385131"
 metafile = true
 
 [[files]]
