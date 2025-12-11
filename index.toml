@@ -1294,7 +1294,112 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "073fb67093d93aa01f73acdcfaee66fc9a67c5b4c95d0ae975ddf62273b4077b"
+hash = "6069b925831e29353ecf9b21050c264934b680b0ed0d8c52cc5bd88281f75758"
+
+[[files]]
+file = "config/paxi/resourcepacks/aimz-sniper-crosshair.pw.toml"
+hash = "12fc92e0e661b0fa408ee991f43b9c7ec4a67c5dfc71fd73c1495f85ca33b626"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/airliners-for-mtr(4.0).pw.toml"
+hash = "48a3e1e42b6ba19b0b18bf3059e0825954e6550285c4169b3fc8f1fadf291147"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/barebones-x-trafficcraft-asphalt.pw.toml"
+hash = "571fdebfb68af8fd753525db8337b012429cbb9d240331da0a403efe32a45c62"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/clean-connected-glass.pw.toml"
+hash = "e2c61e57fe97ea97c3ef7133896d186bd55fd0159aa92b80c991e2ca5604ea3b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/clean_connected_glass-(diagonalwindows-mod-compatibility).pw.toml"
+hash = "a26e3a5c81e0667c1445250f3a30d7cafa31aa933685f911a56db8c1a50e9c82"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/dark-everywhere.pw.toml"
+hash = "2c7ca7d1f4ef299cf2568ce6a06b09736c7ddc0daec6a6dd016468e4a9bdba82"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/diagonal-perfect-rails-3d.pw.toml"
+hash = "66bd1d040ee84bb64f248cc55c324ea550234d07213c315057fc274e50a3690f"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fast-better-grass.pw.toml"
+hash = "b6643cac68927881baa84fa7f348a2d60b6d2f901b4612c7a8c4ad882f90f23b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/metronet-logo-for-mtr.pw.toml"
+hash = "fb05a94805ed6f31febe38fd0221ba85325dd2ba1935d64f1df55027d45aa9a9"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/modern-font-pack.pw.toml"
+hash = "4052a5a9648431777939427bf908d687b2d834a8826d357db4c79b74c6a507b2"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mtr-language-fixes.pw.toml"
+hash = "64bfd21ed65b150ebf7bd5bccb7177dae535172b96fd95216547ed9c1864e658"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mtr-unidirectional-platform.pw.toml"
+hash = "b7a974c23786633f2bdabfe1f48f4d9a368aab56d15d3dce6cd1ff729e39ef05"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mtr-yutong-retexture.pw.toml"
+hash = "282af0fca77016cf76823ac799a09051cb4698d6062eeebb239d16bb2deae95b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mtr1067mm_rail.pw.toml"
+hash = "172e07a2445bba2624eacd9594a08293fd0bb317177f25aa5d60b887ba4b6a8f"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mtraustralian-narrow-trains.pw.toml"
+hash = "e6dfb8291c1c5579278ed9a54599031e84e25818a0cc3c92af10bccccda5c338"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/programmer-art-fix.pw.toml"
+hash = "2a0d3edde7912ff0b9d9c342a8c88ba66cb859aea4612cc4c6a9e97c0cf5303f"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/redstonetweaksresourcepack.pw.toml"
+hash = "92ee45304baa3713a2dfb674f5ba28930fa7cc5191ece2a6c193ff2439d80d9c"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/tptrains.pw.toml"
+hash = "69123ae8f7c7807ff6dd6d4f3380dd34d5b836f52457770020cab0efc7962f35"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/tpvolvo.pw.toml"
+hash = "c6748bbdefd6a7d9ff171881d61c1d3a1eb309436a4e7bdde60b3e5cd5a582e5"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/vdlenglish.pw.toml"
+hash = "7d22bde30eec931504bac5b8c628eafb0eafb51b15e61b8c92e4762d7a93a692"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/wll.pw.toml"
+hash = "8beaaeb9df408abc748298cdf3b7779a72d573b82f79e5ce54c2bf3cf80db4e5"
+metafile = true
 
 [[files]]
 file = "config/pehkui/config.json"
@@ -5897,111 +6002,6 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
-metafile = true
-
-[[files]]
-file = "resourcepacks/aimz-sniper-crosshair.pw.toml"
-hash = "12fc92e0e661b0fa408ee991f43b9c7ec4a67c5dfc71fd73c1495f85ca33b626"
-metafile = true
-
-[[files]]
-file = "resourcepacks/airliners-for-mtr(4.0).pw.toml"
-hash = "48a3e1e42b6ba19b0b18bf3059e0825954e6550285c4169b3fc8f1fadf291147"
-metafile = true
-
-[[files]]
-file = "resourcepacks/barebones-x-trafficcraft-asphalt.pw.toml"
-hash = "571fdebfb68af8fd753525db8337b012429cbb9d240331da0a403efe32a45c62"
-metafile = true
-
-[[files]]
-file = "resourcepacks/clean-connected-glass.pw.toml"
-hash = "e2c61e57fe97ea97c3ef7133896d186bd55fd0159aa92b80c991e2ca5604ea3b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/clean_connected_glass-(diagonalwindows-mod-compatibility).pw.toml"
-hash = "a26e3a5c81e0667c1445250f3a30d7cafa31aa933685f911a56db8c1a50e9c82"
-metafile = true
-
-[[files]]
-file = "resourcepacks/dark-everywhere.pw.toml"
-hash = "2c7ca7d1f4ef299cf2568ce6a06b09736c7ddc0daec6a6dd016468e4a9bdba82"
-metafile = true
-
-[[files]]
-file = "resourcepacks/diagonal-perfect-rails-3d.pw.toml"
-hash = "66bd1d040ee84bb64f248cc55c324ea550234d07213c315057fc274e50a3690f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "b6643cac68927881baa84fa7f348a2d60b6d2f901b4612c7a8c4ad882f90f23b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/metronet-logo-for-mtr.pw.toml"
-hash = "fb05a94805ed6f31febe38fd0221ba85325dd2ba1935d64f1df55027d45aa9a9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/modern-font-pack.pw.toml"
-hash = "4052a5a9648431777939427bf908d687b2d834a8826d357db4c79b74c6a507b2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-language-fixes.pw.toml"
-hash = "64bfd21ed65b150ebf7bd5bccb7177dae535172b96fd95216547ed9c1864e658"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-unidirectional-platform.pw.toml"
-hash = "b7a974c23786633f2bdabfe1f48f4d9a368aab56d15d3dce6cd1ff729e39ef05"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-yutong-retexture.pw.toml"
-hash = "282af0fca77016cf76823ac799a09051cb4698d6062eeebb239d16bb2deae95b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr1067mm_rail.pw.toml"
-hash = "172e07a2445bba2624eacd9594a08293fd0bb317177f25aa5d60b887ba4b6a8f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtraustralian-narrow-trains.pw.toml"
-hash = "e6dfb8291c1c5579278ed9a54599031e84e25818a0cc3c92af10bccccda5c338"
-metafile = true
-
-[[files]]
-file = "resourcepacks/programmer-art-fix.pw.toml"
-hash = "2a0d3edde7912ff0b9d9c342a8c88ba66cb859aea4612cc4c6a9e97c0cf5303f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/redstonetweaksresourcepack.pw.toml"
-hash = "92ee45304baa3713a2dfb674f5ba28930fa7cc5191ece2a6c193ff2439d80d9c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tptrains.pw.toml"
-hash = "69123ae8f7c7807ff6dd6d4f3380dd34d5b836f52457770020cab0efc7962f35"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tpvolvo.pw.toml"
-hash = "c6748bbdefd6a7d9ff171881d61c1d3a1eb309436a4e7bdde60b3e5cd5a582e5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vdlenglish.pw.toml"
-hash = "7d22bde30eec931504bac5b8c628eafb0eafb51b15e61b8c92e4762d7a93a692"
-metafile = true
-
-[[files]]
-file = "resourcepacks/wll.pw.toml"
-hash = "8beaaeb9df408abc748298cdf3b7779a72d573b82f79e5ce54c2bf3cf80db4e5"
 metafile = true
 
 [[files]]
