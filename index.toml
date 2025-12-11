@@ -5,6 +5,14 @@ file = "config/modmenu.json"
 hash = "78cba3e4cb8c12a0956ed43f0fe02b947229f377f4cc19e5cb4883af14166fad"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "073fb67093d93aa01f73acdcfaee66fc9a67c5b4c95d0ae975ddf62273b4077b"
+
+[[files]]
 file = "config/zume.json5"
 hash = "8e2fa39fbe4c191ac922cf0d50eda05a9e24c0a25789030b836fabcafdee8600"
 
