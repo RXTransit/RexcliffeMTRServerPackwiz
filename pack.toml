@@ -1,6 +1,6 @@
 name = "Rexcliffe MTR Packwiz"
 author = "RX"
-version = "1.0.0"
+version = "3.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]

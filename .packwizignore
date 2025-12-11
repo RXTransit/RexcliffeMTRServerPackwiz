@@ -1,4 +1,4 @@
 #Exclude .git
 /.git
 #Exclude .zip
-*.zip
+/Rexcliffe-MTR-3.0.2.zip
