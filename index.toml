@@ -89,6 +89,10 @@ file = "config/essentialcommands/rules.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/litematica.json"
+hash = "f2eaccc8a7b3935da929302b68cde3d5eb80e81a1f7d7309a9af6633bd704875"
+
+[[files]]
 file = "config/litematica/litematica_15.235.157.66_25579.json"
 hash = "7d5061f932c01a9fb23ae526c4776b2f19be4b6650ecaf299e7aecaa3816ab44"
 
@@ -1207,10 +1211,6 @@ hash = "8c3090d5ad28a65c7f946726318c7b578e9708cec49fc2eee99f746780e002bf"
 [[files]]
 file = "configureddefaults/legacy/global_packs.json"
 hash = "f27faccebdfdf2bc898b68f36c0dd309bf6deea61a8d65d90173675dff876c5e"
-
-[[files]]
-file = "configureddefaults/litematica.json"
-hash = "f2eaccc8a7b3935da929302b68cde3d5eb80e81a1f7d7309a9af6633bd704875"
 
 [[files]]
 file = "configureddefaults/lithium.properties"
