@@ -1301,6 +1301,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "e8a666d898b35535953ecf01abaf4713f9a8c758127eb521d1b1e0973b07a460"
 
 [[files]]
+file = "config/paxi/resourcepacks/Extract-Resource-Packs-Here.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/pehkui/config.json"
 hash = "03566f5b722d000ee785cccf8a55651c75c7bc00fea16d2538899578188ebb32"
 
