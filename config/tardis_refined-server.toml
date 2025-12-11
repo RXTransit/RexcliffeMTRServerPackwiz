@@ -1,0 +1,9 @@
+
+[travel]
+	#A list of Dimensions the TARDIS cannot land in.
+	banned_dimensions = ["example:dimension"]
+	#A list of Dimensions that are automatically sampled
+	adventure_mode_defaults = ["minecraft:overworld"]
+	#Toggles whether players must discover and sample dimensions before they can travel there
+	adventure_mode = false
+

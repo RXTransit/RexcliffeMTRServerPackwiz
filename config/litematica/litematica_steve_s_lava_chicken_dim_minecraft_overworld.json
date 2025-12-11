@@ -1,0 +1,43 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "carpark",
+    "current": "carpark",
+    "boxes": [
+      {
+        "pos1": [
+          -1033,
+          69,
+          1447
+        ],
+        "pos2": [
+          -1087,
+          103,
+          1488
+        ],
+        "name": "carpark"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

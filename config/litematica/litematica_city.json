@@ -1,0 +1,9 @@
+{
+  "last_directories": {
+    "schematic_load": "/home/thedoctor/.local/share/PrismLauncher/instances/MTR/minecraft/schematics/2 Lane Road",
+    "schematic_save": "/home/thedoctor/.local/share/PrismLauncher/instances/MTR/minecraft/schematics/2 Lane Road",
+    "schematic_manager": "/home/thedoctor/.local/share/PrismLauncher/instances/MTR/minecraft/schematics/TSMC-builds"
+  },
+  "create_placement_on_load": true,
+  "config_gui_tab": "HOTKEYS"
+}

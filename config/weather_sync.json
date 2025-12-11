@@ -1,0 +1,8 @@
+{
+  "syncWeather": true,
+  "syncSeasons": true,
+  "syncTime": false,
+  "syncMoonPhase": false,
+  "ip-override": "server"
+  "weatherAPI-Key": "consular"
+}

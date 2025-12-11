@@ -1,0 +1,24 @@
+{
+  "viewDistanceFactor": 0.4,
+  "shaderpackBrightnessMultipliers": {
+    "(off)": 1.0,
+    "ComplementaryReimagined_r2.3.zip": 1.3
+  },
+  "shaderpackSaturationMultipliers": {
+    "(off)": 1.0,
+    "ComplementaryReimagined_r2.3.zip": 1.0
+  },
+  "shaderpackWaterReflectionColors": {
+    "(off)": {
+      "x": -1.0,
+      "y": -1.0,
+      "z": -1.0
+    },
+    "ComplementaryReimagined_r2.3.zip": {
+      "x": 0.82,
+      "y": 0.9,
+      "z": 0.96
+    }
+  },
+  "debug": false
+}

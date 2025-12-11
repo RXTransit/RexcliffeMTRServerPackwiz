@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "backgroundEnabled": false,
+  "showVSync": false,
+  "lowFpsColor": "§c",
+  "mediumFpsColor": "§e",
+  "highFpsColor": "§a",
+  "text": "$fps$ FPS",
+  "position": "top_left",
+  "scale": 1.3
+}

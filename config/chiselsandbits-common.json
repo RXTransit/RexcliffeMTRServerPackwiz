@@ -1,0 +1,16 @@
+{
+  "help": {
+    "enabled-in-tooltips": true
+  },
+  "performance": {
+    "caches": {
+      "sizes": {
+        "collision-boxes": 10000,
+        "class-metadata": 10000
+      }
+    },
+    "saving": {
+      "thread-count": 6
+    }
+  }
+}
