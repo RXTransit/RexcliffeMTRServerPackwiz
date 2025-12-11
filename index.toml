@@ -357,6 +357,10 @@ file = "config/litematica/litematica_zoo_dim_minecraft_overworld.json"
 hash = "c93eada000b26751a8fe99b4be79e436d7ffd1842fabbd93a13d58b82051e7ec"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "78cba3e4cb8c12a0956ed43f0fe02b947229f377f4cc19e5cb4883af14166fad"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -755,10 +759,6 @@ hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
 [[files]]
 file = "configureddefaults/dynamic_fps.json"
 hash = "30bf7c21557b8e83356ef043c044d76478b531013a290c97443740b2c7a1b73d"
-
-[[files]]
-file = "configureddefaults/e4mc/e4mc.toml"
-hash = "0530f81bc071dd4a0d8bfe7e864898f6a71327c6a694d5c0b02c054e0bf4797c"
 
 [[files]]
 file = "configureddefaults/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json"
