@@ -5233,16 +5233,6 @@ hash = "ade96e54f3cc61a9a64356f522f8527f15a20518fe9a782229af7423358fc017"
 metafile = true
 
 [[files]]
-file = "mods/cicada-cape-fix.pw.toml"
-hash = "20d42eb26ec5a2bcd479ee6bc3316fee64a83f08651eeea8b470792a35f922e2"
-metafile = true
-
-[[files]]
-file = "mods/cicada.pw.toml"
-hash = "d226ea199a740bff4e07877a952dc6972273fb92fcddd258a8989bfbede63a8d"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
