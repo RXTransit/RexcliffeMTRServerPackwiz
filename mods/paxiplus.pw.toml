@@ -1,0 +1,13 @@
+name = "Paxi Plus"
+filename = "paxiplus-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1iyNWBzA/versions/j1lrsGzz/paxiplus-1.1.0.jar"
+hash-format = "sha512"
+hash = "8d7fdc186dc249e3d50124e1e0bdb72fb84987c21e489c168a23518cff154679bacdb12ee7e4b404b3cb869fc31f42f06c3a5b880353da715cd70033b3b6698c"
+
+[update]
+[update.modrinth]
+mod-id = "1iyNWBzA"
+version = "j1lrsGzz"

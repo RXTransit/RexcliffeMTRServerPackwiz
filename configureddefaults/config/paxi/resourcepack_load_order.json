@@ -1,0 +1,32 @@
+{
+    "loadOrder": [
+        "vanilla",
+        "fabric",
+        "minecraft:supporteatinganimation",
+        "Moonlight Mods Dynamic Assets",
+        "$polymer-resources",
+        "continuity:glass_pane_culling_fix",
+        "programmer_art",
+        "file/Aimz - Sniper Crosshair.zip",
+        "file/Airliners_MTR4.0.zip",
+        "file/Clean_Connected_Glass(1.20).zip",
+        "file/DiagonalPerfectRails2.1.zip",
+        "file/MFP-JH-1223J.zip",
+        "file/MTRLangChanges.zip",
+        "file/MTRYellowConcrete Platform.zip",
+        "file/Dark Everywhere.zip",
+        "file/MTR_non_standard_rail_4.0_250318.zip",
+        "file/RHT_TRIO.zip",
+        "file/Redstone Tweaks.zip",
+        "file/TCBusLanes.zip",
+        "file/TransperthAandBV4.zip",
+        "file/TransperthLogo4MTR.zip",
+        "file/TransperthVolvo.zip",
+        "file/VDL_English.zip",
+        "file/mtr_srtAustralian_narrow_4.0_250421.zip",
+        "file/windowlesslift.zip",
+        "file/[1.20.1]ProgrammerArtFix-rv3.1.zip",
+        "file/connected_hotbar_dark_1.20.0-1_v1.zip",
+        "file/Fast Better Grass (1).zip"
+    ]
+}
