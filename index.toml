@@ -6020,3 +6020,7 @@ metafile = true
 file = "resourcepacks/wll.pw.toml"
 hash = "8beaaeb9df408abc748298cdf3b7779a72d573b82f79e5ce54c2bf3cf80db4e5"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "f0c03bae6566f7415caa395b403c7c29d003baf3cc345ad6ada70a783b65acde"
