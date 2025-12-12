@@ -3622,6 +3622,11 @@ hash = "963b5ff9b13cd06fc06f04a6941abc49bc778634e705f39ae47e5a9f3d59b97d"
 metafile = true
 
 [[files]]
+file = "mods/craftformers-prime.pw.toml"
+hash = "6e5247d5123ddfe9fbe1e14d56b161bc6a11a19c830cc0c1d13054ac1c36a8f3"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "d306e869837927002dcaa18b8b92465b11de8efcd44f531a9cef6f3975b00810"
 metafile = true
@@ -3807,11 +3812,6 @@ hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
 metafile = true
 
 [[files]]
-file = "mods/gravity-api-fork.pw.toml"
-hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
-metafile = true
-
-[[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "35a92248579640e9d4caac1ef7f369a378cd2b02b63c4aecb6041c8023939288"
 metafile = true
@@ -3819,11 +3819,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "96b6a9192639045bc5b2c0815ad33d1d754bf77e2f59bd96dd3bde21784d7704"
-metafile = true
-
-[[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "12815484de2690b06b5d971ac8b12e94e4349966413e7f328518724026e9004c"
 metafile = true
 
 [[files]]
@@ -3932,6 +3927,11 @@ hash = "395d02eda4b8b8701a269270fe7fbb3c287383744eb92a8eb4eb72910570dd33"
 metafile = true
 
 [[files]]
+file = "mods/minopp.pw.toml"
+hash = "4957f080380defde08ff83e90483fd2b95ac7d7cf9007b1e71bef59b06c65be8"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
 metafile = true
@@ -4007,6 +4007,11 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "58e0dcbd933909735c31a0da3009fc05276b322196026137ef39da9a50525d8d"
 metafile = true
@@ -4039,11 +4044,6 @@ metafile = true
 [[files]]
 file = "mods/polysit.pw.toml"
 hash = "2322b973d779734dd297f080b20d25bea5986a0e280b2fe90502d570e387b8c3"
-metafile = true
-
-[[files]]
-file = "mods/portal-gun.pw.toml"
-hash = "af2963a345e2aa29e712e0c9b300f3b5182fe4ffa21d6bcba06c4a1f3dace6a2"
 metafile = true
 
 [[files]]
@@ -4189,6 +4189,11 @@ metafile = true
 [[files]]
 file = "mods/unbad-redstone.pw.toml"
 hash = "7f135d38417a9b386aceec08aa0e47993c5048b1775a90f5cca6ca3dd5b673c2"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "a9b241cbbff036293ceb73c9fac0f58c2b1d60cefb2aed0212fc936556a16df8"
 metafile = true
 
 [[files]]
