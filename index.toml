@@ -3717,18 +3717,8 @@ hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
 metafile = true
 
 [[files]]
-file = "mods/dramatic-doors.pw.toml"
-hash = "8143c63aa2e53fd78ea83eddba9cfaa4c036141aae6604eb01d8f82dc5d03c99"
-metafile = true
-
-[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "a1b7ea87dc91f24519a4a4cf8170479c3007fb1c651d04d0ea9515a42f42539c"
-metafile = true
-
-[[files]]
-file = "mods/dynmap.pw.toml"
-hash = "df465a687db15c60a1c56360154944947930e5c5c44425776cc75ab9d1a53e8a"
 metafile = true
 
 [[files]]
