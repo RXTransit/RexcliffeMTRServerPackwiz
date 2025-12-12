@@ -5,7 +5,7 @@
   "count_children": true,
   "mods_button_style": "replace_realms",
   "game_menu_button_style": "below_bugs",
-  "count_hidden_mods": true,
+  "count_hidden_mods": false,
   "mod_count_location": "title_screen",
   "hide_mod_links": false,
   "show_libraries": false,

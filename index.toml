@@ -362,7 +362,7 @@ hash = "0d3c8940048a1eab351bb096a39477d1e087a15522f07ccf7f51f5591c5e0a6f"
 
 [[files]]
 file = "configureddefaults/config/modmenu.json"
-hash = "eb22878907304c38764702634f0ef3f6cd1ac7782bda97d5b6651b9a7e13c06e"
+hash = "8634bf531b62f46c31350b628abc36de01ce242f3124c40c818be8ce63beed2c"
 
 [[files]]
 file = "configureddefaults/config/moonlight-client.json"
@@ -3711,11 +3711,6 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "5af1714d668d18cf7c500218ad61a9e904fbfce74884c5ae5364434a6c9dc43f"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-groups.pw.toml"
-hash = "0c4c4fa5b5241b28397eeba0890673147e972ea34b705de381c9ade8ea336847"
 metafile = true
 
 [[files]]
