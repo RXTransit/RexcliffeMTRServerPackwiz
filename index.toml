@@ -402,7 +402,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepack_load_order.json"
-hash = "6069b925831e29353ecf9b21050c264934b680b0ed0d8c52cc5bd88281f75758"
+hash = "e669fb9cd9f6b13eae9e0b172f88db001898b74c9d62d0c5105f8fa641899501"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -476,6 +476,11 @@ metafile = true
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/mtraustralian-narrow-trains.pw.toml"
 hash = "e6dfb8291c1c5579278ed9a54599031e84e25818a0cc3c92af10bccccda5c338"
+metafile = true
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/mtrvictorian-trains.pw.toml"
+hash = "ff95b21b8d903fd9572bab4b35d9ee52d44ab633bd02fa4e515b7a8b720e2be4"
 metafile = true
 
 [[files]]
@@ -4094,6 +4099,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "058d9d83b502682366ba75fb00b50d5c8a7e7335722ced0407579ae3a25dd6f8"
 metafile = true
 
 [[files]]
