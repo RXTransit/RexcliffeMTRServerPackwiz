@@ -1,0 +1,7 @@
+{
+  "use_tianjin_metro_font": true,
+  "rotated_station_name": true,
+  "disable_dynamic_textures": false,
+  "disable_train_rendering": false,
+  "dynamic_texture_max_size": 2048
+}

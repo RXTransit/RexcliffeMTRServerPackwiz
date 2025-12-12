@@ -1,0 +1,13 @@
+{
+  "posX": 2,
+  "posY": 2,
+  "transparency": 215,
+  "shadow": true,
+  "fpsColor": 65450,
+  "toggleFps": true,
+  "pingColor": 16733695,
+  "togglePing": false,
+  "memoryColor": 16755200,
+  "toggleMemory": false,
+  "enableGameWindowInfo": true
+}

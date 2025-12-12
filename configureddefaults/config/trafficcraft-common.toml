@@ -1,0 +1,30 @@
+[trafficcraft_common_config]
+	[trafficcraft_common_config.world_generation]
+		[trafficcraft_common_config.world_generation.bitumen]
+			#[FABRIC ONLY] Whether bitumen ore should generate in the world or not. (Default: ON)
+			enabled = true
+		[trafficcraft_common_config.world_generation.salt]
+			#[FABRIC ONLY] Whether salt should generate in the world or not. (Default: ON)
+			enabled = true
+	[trafficcraft_common_config.road_construction_tool]
+		#The max distance in blocks the road construction tool can be used for. (Default: 32)
+		#Range: 0 ~ 64
+		max_distance = 32
+		#Max width of roads built by the road construction tool. (Default: 9)
+		#Range: 1 ~ 15
+		max_width = 9
+		#Max slope of roads built by the road construction tool. (Default: 4.0)
+		max_slope = 4.0
+	[trafficcraft_common_config.gameplay]
+		[trafficcraft_common_config.gameplay.road_salt]
+			#How quickly road salt should be used up. Set to -1 to disable (road salt always persists). Higher values increase durability. (Default: 64)
+			#Range: -1 ~ 32767
+			preservation = 100
+			#The range of road salt in which snow melts. (Default: 3)
+			#Range: 1 ~ 8
+			range = 3
+			#The base speed of the road salt. (Default: 100)
+			#Range: 1 ~ 32767
+			speed = 100
+			#Whether road salt should damage the environment. (Default: ON)
+			enable_environmental_damage = true
