@@ -1,6 +1,6 @@
 name = "vdlenglish"
 filename = "VDL_English.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/nzbw43nffb4t4q5b8kbhp/VDL_English.zip?rlkey=s3xgpzyo1hjlkwtii75n3gfha&st=20g7iyua&dl=1"

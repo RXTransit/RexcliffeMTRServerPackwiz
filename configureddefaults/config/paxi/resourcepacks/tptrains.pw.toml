@@ -1,6 +1,6 @@
 name = "tptrains"
 filename = "TransperthAandBV4.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/odzt87udbse9aebwpxim8/TransperthAandBV4.zip?rlkey=xmbfoyd0ecjk5p5xufo0owkk8&st=eymfx1g4&dl=1"

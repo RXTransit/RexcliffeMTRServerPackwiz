@@ -1,0 +1,13 @@
+name = "Animated Doors RP"
+filename = "AnimatedDoors-RPv1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SFrRaocz/versions/Qp0kN5Uh/AnimatedDoors-RPv1.2.zip"
+hash-format = "sha512"
+hash = "488e153b2c92c3933a7e21b5c4f03fe8ddb6aa09e8f20901b35aadafdb2e4408376e1f2e5719aee744dffa5bbc158abd90b589e1ec3911245a88b5c0883b39b0"
+
+[update]
+[update.modrinth]
+mod-id = "SFrRaocz"
+version = "Qp0kN5Uh"

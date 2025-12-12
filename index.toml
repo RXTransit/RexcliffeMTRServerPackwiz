@@ -402,7 +402,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepack_load_order.json"
-hash = "e669fb9cd9f6b13eae9e0b172f88db001898b74c9d62d0c5105f8fa641899501"
+hash = "dc0a448983f4ab4926af2f17f50aa1ddd42cc929945169828292f249d3deefaf"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -416,6 +416,11 @@ metafile = true
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/airliners-for-mtr(4.0).pw.toml"
 hash = "48a3e1e42b6ba19b0b18bf3059e0825954e6550285c4169b3fc8f1fadf291147"
+metafile = true
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/animated-door.pw.toml"
+hash = "031a54437d0ac582056ff190637d37530b33f0e7e3f0478b4391b2df8d7b0fb2"
 metafile = true
 
 [[files]]
@@ -479,11 +484,6 @@ hash = "e6dfb8291c1c5579278ed9a54599031e84e25818a0cc3c92af10bccccda5c338"
 metafile = true
 
 [[files]]
-file = "configureddefaults/config/paxi/resourcepacks/mtrvictorian-trains.pw.toml"
-hash = "ff95b21b8d903fd9572bab4b35d9ee52d44ab633bd02fa4e515b7a8b720e2be4"
-metafile = true
-
-[[files]]
 file = "configureddefaults/config/paxi/resourcepacks/programmer-art-fix.pw.toml"
 hash = "2a0d3edde7912ff0b9d9c342a8c88ba66cb859aea4612cc4c6a9e97c0cf5303f"
 metafile = true
@@ -495,17 +495,17 @@ metafile = true
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/tptrains.pw.toml"
-hash = "69123ae8f7c7807ff6dd6d4f3380dd34d5b836f52457770020cab0efc7962f35"
+hash = "279c295e6f5a368cd9c3acadcdcd1fcd899481528dc8e60d84cd5f6f0b057cfb"
 metafile = true
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/tpvolvo.pw.toml"
-hash = "c6748bbdefd6a7d9ff171881d61c1d3a1eb309436a4e7bdde60b3e5cd5a582e5"
+hash = "4142c7beb745756c2fe4ce19d3ad1c0b6418a9ba9f17ed9ff1cd145aa2f59456"
 metafile = true
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/vdlenglish.pw.toml"
-hash = "7d22bde30eec931504bac5b8c628eafb0eafb51b15e61b8c92e4762d7a93a692"
+hash = "61ba981b09d062952dcd0dd3f90a95c055a3f9278be7fa3a3b39879aea6a73fd"
 metafile = true
 
 [[files]]
@@ -3492,6 +3492,11 @@ hash = "ea430db88d8f190a053e4f3c662d2a59b6a7508778525034f2b20037ee074aec"
 metafile = true
 
 [[files]]
+file = "mods/animated-doors.pw.toml"
+hash = "47f4e44c537bf0b6983ef8d40d67a455f6aea8ac53ffb90218cc1a5d6d64f255"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "1ba6c0a621ef7ca001fe2a7c7c2322f1f7a4b2c93f3a5adc3b548097f8d366de"
 metafile = true
@@ -3554,11 +3559,6 @@ metafile = true
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
-metafile = true
-
-[[files]]
-file = "mods/bluemap.pw.toml"
-hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
 metafile = true
 
 [[files]]
@@ -3634,6 +3634,11 @@ metafile = true
 [[files]]
 file = "mods/couplings.pw.toml"
 hash = "963b5ff9b13cd06fc06f04a6941abc49bc778634e705f39ae47e5a9f3d59b97d"
+metafile = true
+
+[[files]]
+file = "mods/craftformers-prime.pw.toml"
+hash = "af41d808b06c763ee56e42797ba7d41538e22452e2a799247808a8c452200876"
 metafile = true
 
 [[files]]
@@ -3729,6 +3734,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "a1b7ea87dc91f24519a4a4cf8170479c3007fb1c651d04d0ea9515a42f42539c"
+metafile = true
+
+[[files]]
+file = "mods/dynmap.pw.toml"
+hash = "df465a687db15c60a1c56360154944947930e5c5c44425776cc75ab9d1a53e8a"
 metafile = true
 
 [[files]]

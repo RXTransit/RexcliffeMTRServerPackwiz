@@ -1,6 +1,6 @@
 name = "tpvolvo"
 filename = "TransperthVolvo.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/8ahj3n7hc9c71xltrryew/TransperthVolvo.zip?rlkey=g9uqvy6alc95giwp7rfy7gqf5&st=h8a3ui8k&dl=1"
