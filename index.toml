@@ -3622,11 +3622,6 @@ hash = "963b5ff9b13cd06fc06f04a6941abc49bc778634e705f39ae47e5a9f3d59b97d"
 metafile = true
 
 [[files]]
-file = "mods/craftformers-prime.pw.toml"
-hash = "6e5247d5123ddfe9fbe1e14d56b161bc6a11a19c830cc0c1d13054ac1c36a8f3"
-metafile = true
-
-[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "d306e869837927002dcaa18b8b92465b11de8efcd44f531a9cef6f3975b00810"
 metafile = true
