@@ -3492,11 +3492,6 @@ hash = "ea430db88d8f190a053e4f3c662d2a59b6a7508778525034f2b20037ee074aec"
 metafile = true
 
 [[files]]
-file = "mods/animated-doors.pw.toml"
-hash = "47f4e44c537bf0b6983ef8d40d67a455f6aea8ac53ffb90218cc1a5d6d64f255"
-metafile = true
-
-[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "1ba6c0a621ef7ca001fe2a7c7c2322f1f7a4b2c93f3a5adc3b548097f8d366de"
 metafile = true
