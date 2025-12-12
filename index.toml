@@ -3557,6 +3557,11 @@ hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
 metafile = true
@@ -3657,6 +3662,11 @@ hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
 
 [[files]]
+file = "mods/create-threaded-trains.pw.toml"
+hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
+metafile = true
+
+[[files]]
 file = "mods/create-unlimited.pw.toml"
 hash = "4db1f6e180454d5c6b3f9855c1c0763704c8c2f570bd8e76f78463b2d358bff1"
 metafile = true
@@ -3739,6 +3749,11 @@ metafile = true
 [[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "21c3264543db261d2b7fca1b0debbae16d11a1945999ff1dfa51551fec381bbf"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "18b0d44213fd3c7e22748e4ad775e6ce5cf243f9b38294130a826c845ae913c4"
 metafile = true
 
 [[files]]
@@ -4062,6 +4077,11 @@ hash = "0cd339450fbb74cebddfc4aa9599a98d0bdc9dc0e3a82d9d5456007127f94d2d"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "83164a6af3923e28cadf9d404f059bf74aa4f0842fc1ca0f6e7cf1e686044875"
 metafile = true
@@ -4132,6 +4152,11 @@ hash = "d24d49d7ed6f8de03ce8e9ba9dd91399e86a006a863b6f1c2c3e6813a3e000a9"
 metafile = true
 
 [[files]]
+file = "mods/srdp.pw.toml"
+hash = "67f6d21fb847eeecec9978e0a10c77f987073e6f2be5f20db0a07abcb046952a"
+metafile = true
+
+[[files]]
 file = "mods/stairdoors-extended.pw.toml"
 hash = "bcf52f7e6326957d77bd9bb45a88f661afaf42e9fcab9805d224f63d2b832967"
 metafile = true
@@ -4179,6 +4204,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "d6ddde622109dc5072e84fc6493c44950314594864a74495d898bcefbd3f2e8b"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
