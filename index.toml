@@ -50,7 +50,7 @@ hash = "870eb1348520393079e13efb01196fcfd9711bdbb9ebe3255f107323dfc9b4cb"
 
 [[files]]
 file = "configureddefaults/config/axiom/.axiom.json.backup"
-hash = "a7bf51d2d007bf37e65c40037260888393d6bf9085ddd3625d8a2f111a274a75"
+hash = "4c92482bcc204a1ea06a690bd3d621092ff376ac60c9d7850b4b5f50d1b81eee"
 
 [[files]]
 file = "configureddefaults/config/axiom/axiom.json"
@@ -69,6 +69,14 @@ file = "configureddefaults/config/bedrockify/bedrockify-ExternalLoadingTips.json
 hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
 
 [[files]]
+file = "configureddefaults/config/bedrockify/bedrockifyClient.json"
+hash = "9dc39a09a1879a8dee61f6f88568a08153661008b709ade350a9ac01d609cbfa"
+
+[[files]]
+file = "configureddefaults/config/bedrockify/bedrockifyCommon.json"
+hash = "1d0c761352a8cda4cfe5679520d89c5649f36067db1bd8f6722cc34ba4438123"
+
+[[files]]
 file = "configureddefaults/config/bedrockify/bedrockifyMixins.json"
 hash = "c8552ac55284532eab049c2a7bce4cbc345c74e2fee38e62b20a748743e3a25b"
 
@@ -78,7 +86,7 @@ hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
 
 [[files]]
 file = "configureddefaults/config/c2me.toml"
-hash = "4715d082b68b76bf4befeddd3f221cc7e411cf0b60bb68e1ea2646758e49006b"
+hash = "2a569d2dd4b9f94683e429edf6856e0399e026659787f356d70e3a23deba2cf9"
 
 [[files]]
 file = "configureddefaults/config/capes.json5"
@@ -106,7 +114,7 @@ hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
 
 [[files]]
 file = "configureddefaults/config/copycats-common.toml"
-hash = "7539655e6edbadb77ee5f9b650419cf94050d2a066941057c8cfa3c914b13d4f"
+hash = "0da238bedde92c9e4fea5c1c4781a0ad63f2e43e49783d91076c888547e20d0a"
 
 [[files]]
 file = "configureddefaults/config/couplings.toml"
@@ -114,7 +122,7 @@ hash = "3dd56511ec3c99a76c9e2cece0a68baeab754159031e1cf91e15520e3e9b390d"
 
 [[files]]
 file = "configureddefaults/config/create-client.toml"
-hash = "ebd40a599e67c925d8d4b574b6215a7924e1e6a71cf1cc8c801b2d73088aca92"
+hash = "1bf7839322c7b8b880cfb09a647535d295c6d7ad864a522871e749e013f8fbdd"
 
 [[files]]
 file = "configureddefaults/config/create-common.toml"
@@ -122,11 +130,11 @@ hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
 
 [[files]]
 file = "configureddefaults/config/createrailwaysnavigator-client.toml"
-hash = "6c9d6f0211da962108fa668f624283eb5dc838f21b0961757ba533aadeddb798"
+hash = "09f329cb837855b2dc7c7d1dff3cab2d8bd106b78cdd7ec5fc150cc8426aa55b"
 
 [[files]]
 file = "configureddefaults/config/createrailwaysnavigator-common.toml"
-hash = "045f47f9597862edbc353117625d72e98a89a173c84baa7a316287a47fb3cebe"
+hash = "70b113a93660a842912e5574e698cc4d7f8efa9c1cfde737616a867a1921fca8"
 
 [[files]]
 file = "configureddefaults/config/cubes-without-borders.json"
@@ -282,7 +290,7 @@ hash = "9d10044097e23ae0bce30f7efc39d055fc7e644be048528f62f9e72a25920e70"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "c972aa889893cb004ca58ffd610efa00646b7ea793f9986a9c2374b079277246"
+hash = "de8da4011e822a5e1cf9d9d1f66c965112918b60a688162e1e31255109422cc6"
 
 [[files]]
 file = "configureddefaults/config/fastquit.toml"
@@ -302,7 +310,7 @@ hash = "300b866a6251887cbd30b18438e123b2fa524315edbf8e2996a01acb4ecac91e"
 
 [[files]]
 file = "configureddefaults/config/fps.json"
-hash = "24072b8456e1e323ab664e60a3f6020d52712bc0ffabfae6a6adc938e5007c97"
+hash = "10cb8417d0ac6451c0eb0b552ef6e047e6766340d6d52188e45235201edeed7e"
 
 [[files]]
 file = "configureddefaults/config/freecam.json5"
@@ -314,11 +322,11 @@ hash = "9ce77b962a2013c8f93e6a040415f2bef7bd6205df03e21d2180c25ed67624f2"
 
 [[files]]
 file = "configureddefaults/config/indium-renderer.properties"
-hash = "45bad7acd74a622c3bf77e9f2586ae80c51d3382e003e17d872c9c1f2a47acee"
+hash = "64603163deabd96db4ce37dd643eea3af56e5fa7553e03bf8a357ba26ee1dac0"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "5fbdeb72f1a532a7d323971562d6f6b204d6943617421d81150d8e5bea25ec2e"
+hash = "eaed78703118f904beed1112c24d2f368b17c2821ca948886455865ab202f414"
 
 [[files]]
 file = "configureddefaults/config/jsblock_client.json"
@@ -362,7 +370,7 @@ hash = "0d3c8940048a1eab351bb096a39477d1e087a15522f07ccf7f51f5591c5e0a6f"
 
 [[files]]
 file = "configureddefaults/config/modmenu.json"
-hash = "8634bf531b62f46c31350b628abc36de01ce242f3124c40c818be8ce63beed2c"
+hash = "99018e96252dfe82ca25e849a6a86360f219d8df71a5b6d9a99cab8647df5983"
 
 [[files]]
 file = "configureddefaults/config/moonlight-client.json"
@@ -539,7 +547,7 @@ hash = "a7ca188ef644089b3b52ac767895e3230c2b904f9243b562914ae5ae55090097"
 
 [[files]]
 file = "configureddefaults/config/railways-client.toml"
-hash = "208537bac1e6c88d9df13bcfdae8c82de76a222515db55fe6ab34c0c2015a1b1"
+hash = "fe4faf4d22d89659cba012ba618ea1ce02a78f7c33337c4a16f69127c0caae4d"
 
 [[files]]
 file = "configureddefaults/config/railways-common.toml"
@@ -591,7 +599,7 @@ hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
 
 [[files]]
 file = "configureddefaults/config/sodiumdynamiclights-client.toml"
-hash = "d8ebc5a26f6f4fc0d27c3746a3aa6ec8d2652873bd3cec6f254be1628f0472f7"
+hash = "1b15cfc89e4240d07949584e53f4b0174682f44407c1ecbdf2ce4f62e9d4838d"
 
 [[files]]
 file = "configureddefaults/config/timecontrol.json"
@@ -607,7 +615,7 @@ hash = "a5fecfd8e920fd64f8098f89d6b8fe62d1dc83be01bd239aa54df9af78d67766"
 
 [[files]]
 file = "configureddefaults/config/trafficcraft-common.toml"
-hash = "3b83170b2141bd4f54c5a4c638d5584f4409aad34f1ec476e661738b2b5c49ed"
+hash = "128aa84696fae16abdb9a9bfe6ab7c18ffdd41a43211474cd041724e9faf5403"
 
 [[files]]
 file = "configureddefaults/config/unbad-redstone.json"
@@ -695,7 +703,7 @@ hash = "ff2e277f4af2c6b99837d10e2a2c949e2cf069e0ec0149290ee5cae904eab224"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "configureddefaults/config/xaeropatreon.txt"
@@ -719,7 +727,7 @@ hash = "8e2fa39fbe4c191ac922cf0d50eda05a9e24c0a25789030b836fabcafdee8600"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "1f2c6ff5cd7d67f13ebb41ddebd86cfd8da163ac49f8718f5308153172c4af15"
+hash = "3a9cac110a029f44eb6a90b7dd1a2ce9fe92d62d39b6d0189c4c3cd2ce5d059d"
 
 [[files]]
 file = "easy_npc/backup/2025-08-05/2025-08-05_32e2d366-c33d-44fe-89c3-451a6a86ab69.backup.npc.nbt"
@@ -3814,6 +3822,11 @@ hash = "96b6a9192639045bc5b2c0815ad33d1d754bf77e2f59bd96dd3bde21784d7704"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "12815484de2690b06b5d971ac8b12e94e4349966413e7f328518724026e9004c"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -4029,6 +4042,11 @@ hash = "2322b973d779734dd297f080b20d25bea5986a0e280b2fe90502d570e387b8c3"
 metafile = true
 
 [[files]]
+file = "mods/portal-gun.pw.toml"
+hash = "af2963a345e2aa29e712e0c9b300f3b5182fe4ffa21d6bcba06c4a1f3dace6a2"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
 metafile = true
@@ -4171,6 +4189,11 @@ metafile = true
 [[files]]
 file = "mods/unbad-redstone.pw.toml"
 hash = "7f135d38417a9b386aceec08aa0e47993c5048b1775a90f5cca6ca3dd5b673c2"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "407b6a954f9c3aee145dfa649eaa0b336a6b31d7660476c81cba1da1f6ff54e3"
 metafile = true
 
 [[files]]

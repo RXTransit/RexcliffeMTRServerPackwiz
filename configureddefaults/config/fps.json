@@ -6,8 +6,8 @@
   "fpsColor": 65450,
   "toggleFps": true,
   "pingColor": 16733695,
-  "togglePing": false,
+  "togglePing": true,
   "memoryColor": 16755200,
-  "toggleMemory": false,
+  "toggleMemory": true,
   "enableGameWindowInfo": true
 }

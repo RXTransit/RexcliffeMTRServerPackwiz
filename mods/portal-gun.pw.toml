@@ -1,0 +1,13 @@
+name = "Immersive Portal Gun"
+filename = "portalgun-6.0.1-mc1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n1B6JCKV/versions/tspz6FeJ/portalgun-6.0.1-mc1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "eef5228c0d0fe5e40cbbcab2d7c31a170d489e708e4695ed07d43294eb79d9f7947fb7f83f43552c4446c6150da08fdcdf1a7dbad33b6a65b91ca1749d54a1ae"
+
+[update]
+[update.modrinth]
+mod-id = "n1B6JCKV"
+version = "tspz6FeJ"

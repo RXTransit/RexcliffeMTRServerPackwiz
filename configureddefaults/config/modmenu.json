@@ -1,8 +1,8 @@
 {
   "sorting": "ascending",
-  "count_libraries": true,
+  "count_libraries": false,
   "compact_list": true,
-  "count_children": true,
+  "count_children": false,
   "mods_button_style": "replace_realms",
   "game_menu_button_style": "below_bugs",
   "count_hidden_mods": false,
