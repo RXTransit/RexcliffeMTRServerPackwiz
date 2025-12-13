@@ -1,0 +1,13 @@
+name = "(Discontinued) FNaF's: Build & Decor (Java Edition)"
+filename = "FBD_Snapshot_24w02a_1-20-1_fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W0OPs1mV/versions/4qctOFuS/FBD_Snapshot_24w02a_1-20-1_fabric.jar"
+hash-format = "sha512"
+hash = "5047904e03bec79dbbb23b730f6fce7ba916c23cb4dc1d34335667ab6591889c9bc55b7d1a06dfdcbb35efe7e588c7e36f6a36d85131a432efcc194de75dac5b"
+
+[update]
+[update.modrinth]
+mod-id = "W0OPs1mV"
+version = "4qctOFuS"

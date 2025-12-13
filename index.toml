@@ -3792,6 +3792,11 @@ hash = "7ebcea4812d449612eb66ac021bb48931c2dc26d8f541765d24638339d644db0"
 metafile = true
 
 [[files]]
+file = "mods/fnafs-decorations-java.pw.toml"
+hash = "800304d83d359fba14c32296dbd1e56f7c1f16e33f80fab5be6dc89a7420a88e"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
@@ -4287,6 +4292,11 @@ hash = "4699fabbe15d1e3ed9fe074cc66c12510896bdc47ea94c2dedd1788738c43b4b"
 metafile = true
 
 [[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "44d8c335a317321656239b2dd2a90ade818d71f6f3b2de46467feb5442677c52"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
@@ -4319,11 +4329,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
-metafile = true
-
-[[files]]
-file = "mods/zume.pw.toml"
-hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
 metafile = true
 
 [[files]]
