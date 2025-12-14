@@ -1,0 +1,13 @@
+name = "[MTR4] The Bombardier Turbostar Pack"
+filename = "mtr4_turbostar_pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rt3wdrmA/versions/gX5ZpH0J/mtr4_turbostar_pack.zip"
+hash-format = "sha512"
+hash = "0cd7ee2cffe4fed28ae60f2e6b00e7a781b6944f4debe2fad9aa39beb725da377e71b12ef59f7c2d05de8ca46498e77896d973c05750db2a52b6660162c969dc"
+
+[update]
+[update.modrinth]
+mod-id = "rt3wdrmA"
+version = "gX5ZpH0J"

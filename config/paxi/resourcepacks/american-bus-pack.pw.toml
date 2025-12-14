@@ -1,0 +1,13 @@
+name = "[MTR4] American Bus Pack"
+filename = "American Bus Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LxRbtmkT/versions/LjMGloD1/American%20Bus%20Pack.zip"
+hash-format = "sha512"
+hash = "d79f8c75804f5e40bf2e0bb7b72192b7ae653c4754107d85ed0cc3116dde86b63652c0c772fef3580ad833aef66327c763d383e67a0dd804c00de6b977ca2100"
+
+[update]
+[update.modrinth]
+mod-id = "LxRbtmkT"
+version = "LjMGloD1"
