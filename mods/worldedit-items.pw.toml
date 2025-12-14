@@ -1,0 +1,13 @@
+name = "WorldEdit Items"
+filename = "worldedit_items-2.1-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xBMX8ICO/versions/p41MhEAi/worldedit_items-2.1-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "71104a0ec359331265b448c7a6b4798b62adad9c1998342fcc6947a9c77fecb1f7c88c48f240fa9339dbc0890549c92e377a0fe61e9cad338b829c42ee3e82e4"
+
+[update]
+[update.modrinth]
+mod-id = "xBMX8ICO"
+version = "p41MhEAi"

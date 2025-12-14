@@ -3622,11 +3622,6 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "4accbc204fe2a7dd1680dd665f5266afe023369f0adf3a0e79fdc24db326acf9"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
@@ -4324,6 +4319,11 @@ metafile = true
 [[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "44d8c335a317321656239b2dd2a90ade818d71f6f3b2de46467feb5442677c52"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-items.pw.toml"
+hash = "7b463cc67b7f93839a472a3b7d6a55f960c1b8ec402cf70f175c0e8bc55e0ecd"
 metafile = true
 
 [[files]]
