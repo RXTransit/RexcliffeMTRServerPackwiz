@@ -4032,6 +4032,11 @@ hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
 metafile = true
 
 [[files]]
+file = "mods/offline-players.pw.toml"
+hash = "ebd3005268f9f5290e880b1b8052c650e1f13dbf75b8d113a243ff78633abd2d"
+metafile = true
+
+[[files]]
 file = "mods/old-combat-mod.pw.toml"
 hash = "d9087668cb1930cb8a3878b6a76b40200ea4ce38beb8c71dc9195078ef57cdfe"
 metafile = true
@@ -4159,6 +4164,11 @@ metafile = true
 [[files]]
 file = "mods/simple-health-bar.pw.toml"
 hash = "fdb29476d5524f3d1148adda867fa34b8765918bf62ec3dc342353a10f6b71e4"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "62a6f5a489aa45fda94386b89a75485312338261998ddbb2d11316f595d2c38f"
 metafile = true
 
 [[files]]

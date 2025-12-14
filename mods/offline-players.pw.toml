@@ -1,0 +1,13 @@
+name = "Offline Players"
+filename = "offline_players-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q11akOLU/versions/EOc90wIq/offline_players-1.0.0.jar"
+hash-format = "sha512"
+hash = "345651aa7b665547868be688fadfdbac88d777896ca806513493f70b51e55a05c9d53e514e9b69c8701e619a82e8d3cb96a8390daaf6f5dec6e073e5ee04f43b"
+
+[update]
+[update.modrinth]
+mod-id = "Q11akOLU"
+version = "EOc90wIq"
