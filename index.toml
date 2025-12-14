@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "ac0b5d5a786f2a9ee4fa5517eecb05915def3202915b9d959153f951abbcfb6a"
+
+[[files]]
 file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
@@ -401,10 +405,6 @@ file = "configureddefaults/config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "configureddefaults/config/paxi/resourcepack_load_order.json"
-hash = "9d13a09ddb082791595ca0078e281a25f9903e3c07ed69af216042c05c714d03"
-
-[[files]]
 file = "configureddefaults/config/paxi/resourcepacks/ResourcePacksGoHere.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -476,6 +476,11 @@ metafile = true
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/mtraustralian-narrow-trains.pw.toml"
 hash = "e6dfb8291c1c5579278ed9a54599031e84e25818a0cc3c92af10bccccda5c338"
+metafile = true
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/mtrnsw-trainlink-dmu-trains.pw.toml"
+hash = "d34376b85eb21e8cd0047b1a1c05b7e46faad48833110e8f93fee2309b0f49d1"
 metafile = true
 
 [[files]]
@@ -4194,11 +4199,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-perfected.pw.toml"
-hash = "d24d49d7ed6f8de03ce8e9ba9dd91399e86a006a863b6f1c2c3e6813a3e000a9"
 metafile = true
 
 [[files]]

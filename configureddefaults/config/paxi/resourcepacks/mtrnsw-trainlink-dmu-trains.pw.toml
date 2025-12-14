@@ -1,0 +1,13 @@
+name = "[MTR3/4]New South Wales DMU Trains"
+filename = "MTR_NSWDMU_4.0_250811.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1nEPBbhN/versions/A8GSxk7X/MTR_NSWDMU_4.0_250811.zip"
+hash-format = "sha512"
+hash = "aa654d68d33eaa11df47b903e48060417cfc09ad09a472e1ea572de179cf65e18669ee830707e936c57b94efab80c3e4262e82cb8532b7145732d93c303cc897"
+
+[update]
+[update.modrinth]
+mod-id = "1nEPBbhN"
+version = "A8GSxk7X"
