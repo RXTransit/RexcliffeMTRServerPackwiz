@@ -1,0 +1,13 @@
+name = "Short Swords"
+filename = "Short Swords.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GExZOLXP/versions/XuOvSzpa/Short%20Swords.zip"
+hash-format = "sha512"
+hash = "b6196b79aaaed563a2cc62239ba7d0cf3f0601d23183c25f73f2532ca4b933f8ea8e6801c277cf4b6370500eac3b1ae80da7e73a923521127388c602fd0d0d73"
+
+[update]
+[update.modrinth]
+mod-id = "GExZOLXP"
+version = "XuOvSzpa"

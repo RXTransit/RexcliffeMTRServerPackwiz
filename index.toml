@@ -6,7 +6,7 @@ hash = "2b85af43362c7edd1f4b9e1a29e6337cbf286259c838d19594569716019fbfb8"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "5c2d92a3f3e48ddc77d1dc43c310cb938ca2aa95c733beee694351338140fe80"
+hash = "3a8ab46998dbc5dd0c85e8fe6fce06c7e78d30adc30cdefaf1e6732c76055644"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -58,6 +58,11 @@ hash = "66bd1d040ee84bb64f248cc55c324ea550234d07213c315057fc274e50a3690f"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
+hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/metronet-logo-for-mtr.pw.toml"
 hash = "fb05a94805ed6f31febe38fd0221ba85325dd2ba1935d64f1df55027d45aa9a9"
 metafile = true
@@ -98,6 +103,11 @@ hash = "92ee45304baa3713a2dfb674f5ba28930fa7cc5191ece2a6c193ff2439d80d9c"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/short-swords-pack.pw.toml"
+hash = "2703b9b5ee20c2d5a0048257e8ec4007372fa332e8b7c021a1d5ee87864b0a9f"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/stepford-metrocar.pw.toml"
 hash = "fa9190bde77fb1ccbf5445a4216829e25608dac1098412fa4f4e77c51f041d7a"
 metafile = true
@@ -105,6 +115,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/the-bombardier-turbostar-pack.pw.toml"
 hash = "9ba805193be4cf6dba1741138835f5794eb5523b3a800ecf8ef483630ef2e289"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/tras-fresh-player.pw.toml"
+hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
 metafile = true
 
 [[files]]
@@ -3556,6 +3571,11 @@ hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "4780df2e8d01122c7f5aedee4b8bff93a05c635dc2353fe133cc461a1f51c1f2"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
 metafile = true
@@ -4043,11 +4063,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
-metafile = true
-
-[[files]]
-file = "mods/offline-players.pw.toml"
-hash = "ebd3005268f9f5290e880b1b8052c650e1f13dbf75b8d113a243ff78633abd2d"
 metafile = true
 
 [[files]]
