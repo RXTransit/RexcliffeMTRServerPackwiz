@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "6dbfed27dee7e1c0843319db9008c8624efccd70b488c609eaf348ce006cc056"
+hash = "9997e51f3f1cfa3355040f77ff3bfee818da65f21d1420fe5b7de22aa8c33050"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -49,8 +49,13 @@ hash = "66bd1d040ee84bb64f248cc55c324ea550234d07213c315057fc274e50a3690f"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/lert.pw.toml"
+hash = "3b9fe592527a22a51d36efa2d6beab85aa6dcd009fb95b8aa0d054f534fdcde5"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/metronet-logo-for-mtr.pw.toml"
-hash = "fb05a94805ed6f31febe38fd0221ba85325dd2ba1935d64f1df55027d45aa9a9"
+hash = "5fa53a9636c2b7a9df10eded5a04685245d79636102bf2066a3cfcafdb2aea49"
 metafile = true
 
 [[files]]

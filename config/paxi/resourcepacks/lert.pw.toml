@@ -1,0 +1,13 @@
+name = "MTR Low Effort Retextured Trains"
+filename = "lert-v3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BLFDav0O/versions/vu4tjgPW/lert-v3.zip"
+hash-format = "sha512"
+hash = "60892bb4211970fa644c386eac013a1c965c836905418a93a4a8bbba5a63355b4ae27197b2ab2d4a2bf5812297a15a51c2e5bc1fb4c02824544962f6b6da8562"
+
+[update]
+[update.modrinth]
+mod-id = "BLFDav0O"
+version = "vu4tjgPW"
