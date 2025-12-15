@@ -1,8 +1,10 @@
 #Exclude .git
-/.git
+.git
 #Exclude .zip
-/Rexcliffe-MTR-3.0.2.zip
+Rexcliffe-MTR-3.0.2.zip
 #Exclude .gitattributes
-/.gitattributes
+.gitattributes
 #Exclude Readme
-/.README.md
+README.md
+#Exclude mrpacks
+*.mrpack

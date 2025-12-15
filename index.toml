@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "2b85af43362c7edd1f4b9e1a29e6337cbf286259c838d19594569716019fbfb8"
-
-[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "3a8ab46998dbc5dd0c85e8fe6fce06c7e78d30adc30cdefaf1e6732c76055644"
 
@@ -133,10 +129,6 @@ hash = "8beaaeb9df408abc748298cdf3b7779a72d573b82f79e5ce54c2bf3cf80db4e5"
 metafile = true
 
 [[files]]
-file = "configureddefaults/README.md"
-hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
-
-[[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
 hash = "342625f183240680c1488adb7105ded9978a8edbfb470c871612f9b214afa33b"
 
@@ -159,10 +151,6 @@ hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
 [[files]]
 file = "configureddefaults/config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "configureddefaults/config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "configureddefaults/config/SoundPhysicsPerfected.json5"
