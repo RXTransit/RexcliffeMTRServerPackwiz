@@ -1,0 +1,13 @@
+name = "[MTR4] Stepford Metrocar"
+filename = "Stepford Metrocar.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9pCZ2XuQ/versions/27ea8k5h/Stepford%20Metrocar.zip"
+hash-format = "sha512"
+hash = "61ea077e44513c0d4851efa43221168e8f4b6b47d94995991bfdca9b37bead80f408685ddc57eccb00190923e2fe511e5df2278c5db19bb17a766713dc42a12c"
+
+[update]
+[update.modrinth]
+mod-id = "9pCZ2XuQ"
+version = "27ea8k5h"

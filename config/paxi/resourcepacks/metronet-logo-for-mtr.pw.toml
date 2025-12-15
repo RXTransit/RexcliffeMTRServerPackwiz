@@ -1,13 +1,13 @@
 name = "METRONET and Transperth Logo for MTR"
-filename = "METRONET.zip"
+filename = "TransperthLogo4MTR.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wd0PwuY9/versions/LVZzBGal/METRONET.zip"
+url = "https://cdn.modrinth.com/data/Wd0PwuY9/versions/GjCNw1yO/TransperthLogo4MTR.zip"
 hash-format = "sha512"
-hash = "d6775873ca64f49e8aac5d046f3c4bdc459ec732f732373a7441839be87d92391c5263873b6c056404848c217736bd8e30485c6098fdce1fb7267f55b7e81405"
+hash = "357e8ba7f7f6ade85d792499cd8651fa60f80a61797cf03072e7ab6492d512cc73ca50482834873731ffef0b3f1e152449a7406fa65ebf8ddb99750a1c98f2ff"
 
 [update]
 [update.modrinth]
 mod-id = "Wd0PwuY9"
-version = "LVZzBGal"
+version = "GjCNw1yO"

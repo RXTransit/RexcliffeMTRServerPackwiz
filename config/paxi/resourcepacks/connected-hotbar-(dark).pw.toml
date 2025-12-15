@@ -1,0 +1,13 @@
+name = "Connected Hotbar (Dark)"
+filename = "connected_hotbar_dark_1.20.0-1_v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VciQxR6k/versions/chNlWIff/connected_hotbar_dark_1.20.0-1_v1.zip"
+hash-format = "sha512"
+hash = "8b51a131deb3c6097975ad8d39d6b31b571527d91a2d6be5da7f75562e2a954d4fb31a4d4e6d1cebe88f191b2339f3cd626dc2924528d5895af2a59504426640"
+
+[update]
+[update.modrinth]
+mod-id = "VciQxR6k"
+version = "chNlWIff"

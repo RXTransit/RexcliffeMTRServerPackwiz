@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "9997e51f3f1cfa3355040f77ff3bfee818da65f21d1420fe5b7de22aa8c33050"
+hash = "be362a777af2b76ef4c4d51d186a4b4e5dd795cb8be395f9d94764a8676e2320"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -39,6 +39,11 @@ hash = "a26e3a5c81e0667c1445250f3a30d7cafa31aa933685f911a56db8c1a50e9c82"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/connected-hotbar-(dark).pw.toml"
+hash = "a0ffed660826f92d9c19df913af4cf6520f6f67783361b10dc29a72acc14a91b"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/dark-everywhere.pw.toml"
 hash = "2c7ca7d1f4ef299cf2568ce6a06b09736c7ddc0daec6a6dd016468e4a9bdba82"
 metafile = true
@@ -49,13 +54,8 @@ hash = "66bd1d040ee84bb64f248cc55c324ea550234d07213c315057fc274e50a3690f"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/lert.pw.toml"
-hash = "3b9fe592527a22a51d36efa2d6beab85aa6dcd009fb95b8aa0d054f534fdcde5"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/metronet-logo-for-mtr.pw.toml"
-hash = "5fa53a9636c2b7a9df10eded5a04685245d79636102bf2066a3cfcafdb2aea49"
+hash = "fb05a94805ed6f31febe38fd0221ba85325dd2ba1935d64f1df55027d45aa9a9"
 metafile = true
 
 [[files]]
@@ -101,6 +101,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/redstonetweaksresourcepack.pw.toml"
 hash = "92ee45304baa3713a2dfb674f5ba28930fa7cc5191ece2a6c193ff2439d80d9c"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/stepford-metrocar.pw.toml"
+hash = "fa9190bde77fb1ccbf5445a4216829e25608dac1098412fa4f4e77c51f041d7a"
 metafile = true
 
 [[files]]
