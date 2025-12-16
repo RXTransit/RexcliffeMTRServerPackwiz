@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "74ce4760058579b6a051ea8ee7074ca36054342a7ab8d4a9193df114d2df52e5"
+hash = "cbc1be1699c10e8ed92a9344144d6e6e8bbac8b192d24067301c17f31bcf00b4"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -106,6 +106,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/mtr-yutong-retexture.pw.toml"
 hash = "282af0fca77016cf76823ac799a09051cb4698d6062eeebb239d16bb2deae95b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/npcspiderhider.pw.toml"
+hash = "b962537109ee58eac3480d1a90fa4ddd078db63efd6cf9962903da3252c0edcb"
 metafile = true
 
 [[files]]

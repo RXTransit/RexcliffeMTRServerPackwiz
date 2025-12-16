@@ -1,0 +1,8 @@
+name = "NPCSpiderHider"
+filename = "NPCSpiderHider.zip"
+side = "client"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/ojkqnjgvrvavmfy1pd8q2/NPCSpiderHider.zip?rlkey=qdy18pydn2dxuuc82vm1dwy54&st=4ii8h22h&dl=1"
+hash-format = "sha256"
+hash = "fa5f50d5001b6384c6fb6417b0ca68a410a5fcee81b68e36c5e7acc0471d592f"
