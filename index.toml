@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/mtrnasmoothstone.pw.toml"
-hash = "0561d748231e0d37818d65be3d200d1b9af4e35af6ba8ac325dc23865ac2c904"
+hash = "d78752d948fd9d975df3d0b65f491626159fad89bb88c74d122e81c112cb1fa2"
 metafile = true
 
 [[files]]

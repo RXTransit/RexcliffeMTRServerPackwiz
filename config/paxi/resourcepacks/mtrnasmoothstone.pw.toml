@@ -1,6 +1,6 @@
 name = "mtrnasmoothstone"
 filename = "MTRNAPlatform-SmoothStone.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/6lkkrzn50qse7nhizb83s/MTRNAPlatform-SmoothStone.zip?rlkey=owdetz38wgkxjkaa1a92zzvak&st=qc7b7zfu&dl=1"
