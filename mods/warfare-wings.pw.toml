@@ -1,0 +1,13 @@
+name = "Warfare Wings"
+filename = "warfare_wings-1.1.2-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OsWThBSc/versions/Nf9PFt3K/warfare_wings-1.1.2-1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "65bcb02ebb1a554da935fd68bc8963efaae229f1d243411302d53f758a9b0a2e30403a44f61e458729b0d83295f9755ba27f57af555d9edb20dd6ac0a203121f"
+
+[update]
+[update.modrinth]
+mod-id = "OsWThBSc"
+version = "Nf9PFt3K"

@@ -1,0 +1,13 @@
+name = "Aviator Dreams"
+filename = "Aviator Dreams 2.0.1 1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VPQwbMgx/versions/ySHR48J6/Aviator%20Dreams%202.0.1%201.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "9e26b5b4e718025837d8a4fe86a794c24ad91eb6fe4d16f991d58c25cf4dd55278761ab7d32e2efa866a4fac0ba9ed364386c657962365b0099adc64876049ef"
+
+[update]
+[update.modrinth]
+mod-id = "VPQwbMgx"
+version = "ySHR48J6"

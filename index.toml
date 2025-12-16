@@ -3549,6 +3549,11 @@ hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
 metafile = true
 
 [[files]]
+file = "mods/aviator-dreams.pw.toml"
+hash = "45d4eb215e609e3c3b83156a5a1d2c6d45385eea91b14c9d010a3a1bf45a18be"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
 metafile = true
@@ -3879,6 +3884,16 @@ hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "ca3ca3f51541688c45a81c541ff46660853106ebda282dfd59da00f5c9c0a9cd"
+metafile = true
+
+[[files]]
+file = "mods/immersive-machinery.pw.toml"
+hash = "6609bbf9ad34d9ef90ebb9c8bf7ec1617ce83699f7db37018ce4fb132b6caf80"
+metafile = true
+
+[[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "35a92248579640e9d4caac1ef7f369a378cd2b02b63c4aecb6041c8023939288"
 metafile = true
@@ -3989,6 +4004,11 @@ hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
 metafile = true
 
 [[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "9c75a2572604803f8e03d00c98ef3b971fad40f9560676d564064a26e32b7a20"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
@@ -4006,11 +4026,6 @@ metafile = true
 [[files]]
 file = "mods/minopp.pw.toml"
 hash = "4957f080380defde08ff83e90483fd2b95ac7d7cf9007b1e71bef59b06c65be8"
-metafile = true
-
-[[files]]
-file = "mods/modern-decorations-mod.pw.toml"
-hash = "2189f8a7553041fc0b40a378d161f5a5889f6752edcb8d6fbc1e70aff4683c88"
 metafile = true
 
 [[files]]
@@ -4326,6 +4341,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "407b6a954f9c3aee145dfa649eaa0b336a6b31d7660476c81cba1da1f6ff54e3"
+metafile = true
+
+[[files]]
+file = "mods/warfare-wings.pw.toml"
+hash = "7aa02b4d7f7a9fccb190c39823c3167364f8ff46e052cf54fd11a970e15be4a2"
 metafile = true
 
 [[files]]
