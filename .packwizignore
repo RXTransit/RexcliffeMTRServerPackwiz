@@ -1,7 +1,7 @@
 #Exclude .git
 .git
 #Exclude .zip
-New-Altenbury.zip
+New-Altenbury-3.0.4.zip
 #Exclude .gitattributes
 .gitattributes
 #Exclude Readme

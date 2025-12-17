@@ -3530,7 +3530,7 @@ metafile = true
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
-hash = "fdcead535bc21f08d3c2c8922d006e7ea48ec5e8fbacdb0f81b3316abba9387d"
+hash = "1ba6c0a621ef7ca001fe2a7c7c2322f1f7a4b2c93f3a5adc3b548097f8d366de"
 metafile = true
 
 [[files]]
