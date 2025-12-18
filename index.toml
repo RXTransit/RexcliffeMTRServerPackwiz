@@ -3879,8 +3879,8 @@ hash = "7ebcea4812d449612eb66ac021bb48931c2dc26d8f541765d24638339d644db0"
 metafile = true
 
 [[files]]
-file = "mods/flashlighttlg.pw.toml"
-hash = "7b77d6dd8f83743b79176f475217766a028c6dbe317dfd35bf1615c1a1252625"
+file = "mods/flashlight-creepermeyt.pw.toml"
+hash = "34c6b48707086737fc3f6849e7936aa2bf38142c460bfc8ef66003ebc15591c8"
 metafile = true
 
 [[files]]
