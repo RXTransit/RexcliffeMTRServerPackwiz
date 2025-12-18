@@ -3554,8 +3554,18 @@ hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "6a2a015e93678892c69d5f0893e7e658090c9ac7e843a3373f8ad8f62fee741a"
+metafile = true
+
+[[files]]
 file = "mods/aviator-dreams.pw.toml"
 hash = "45d4eb215e609e3c3b83156a5a1d2c6d45385eea91b14c9d010a3a1bf45a18be"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
 metafile = true
 
 [[files]]
@@ -3739,6 +3749,11 @@ hash = "5944ed5a779d142aea9ccd8c466a20fa3d9233a29f2be1e5ae54fc15f5edd57e"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "119642cc64a5790f42738939121ea5a08100eb0c3867d7f64ead1a4d0eb8a163"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "5f7537e9f19357e3a5bcc077725f15a1694fb9f67c4cdfd96f3b993a85e397f1"
 metafile = true
@@ -3771,6 +3786,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "a1b7ea87dc91f24519a4a4cf8170479c3007fb1c651d04d0ea9515a42f42539c"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e9ba6ffa1109ca957fef061ef4b41a46300b3cfb382ef4ae24f96c54309fd31f"
 metafile = true
 
 [[files]]
@@ -3809,6 +3829,11 @@ hash = "18b0d44213fd3c7e22748e4ad775e6ce5cf243f9b38294130a826c845ae913c4"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "76ba469ba67cdf17276da7a629ff85518f4c1dfaaae5ad28d9ee2d6bc79439c5"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "b85d67305a4b4a367d8a18b26cc18f8ceaf8e002f68808d65c36b0d0b1c84c90"
 metafile = true
@@ -3826,6 +3851,11 @@ metafile = true
 [[files]]
 file = "mods/fadeless.pw.toml"
 hash = "d987a241a56c9e3fde315ca942c8240911b51c98d7d5bd1f089c25ddb8b6cca1"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "4d1964bc6102d600b87450947d8969ad36515267c52fc75833fbfd44391c3502"
 metafile = true
 
 [[files]]
@@ -3879,6 +3909,11 @@ hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "d9d01681616a8bdb45bbdd0a053b87153bbb77a5ef997325be0b3dc10b7f8979"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "ca3ca3f51541688c45a81c541ff46660853106ebda282dfd59da00f5c9c0a9cd"
 metafile = true
@@ -3896,11 +3931,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "96b6a9192639045bc5b2c0815ad33d1d754bf77e2f59bd96dd3bde21784d7704"
-metafile = true
-
-[[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "12815484de2690b06b5d971ac8b12e94e4349966413e7f328518724026e9004c"
 metafile = true
 
 [[files]]
@@ -4029,6 +4059,11 @@ hash = "4957f080380defde08ff83e90483fd2b95ac7d7cf9007b1e71bef59b06c65be8"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
 metafile = true
@@ -4151,11 +4186,6 @@ metafile = true
 [[files]]
 file = "mods/polysit.pw.toml"
 hash = "9e28be7f65522422a4ae6de4b75a6ae539067fdeae63f8c000641ac66925fb33"
-metafile = true
-
-[[files]]
-file = "mods/portal-gun.pw.toml"
-hash = "af2963a345e2aa29e712e0c9b300f3b5182fe4ffa21d6bcba06c4a1f3dace6a2"
 metafile = true
 
 [[files]]
