@@ -1,0 +1,13 @@
+name = "FlashLightTLG"
+filename = "flashlighttlg-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BBsjOFmz/versions/PYLOhGHx/flashlighttlg-0.0.1.jar"
+hash-format = "sha512"
+hash = "cb6aced5ed2babfb7384156938f54e3a9a7118a0b43b3fa27aee7c2b0fb931680b2ad6a8c66b71718b5f7fef558b2bd54a87edce15658cd6ee7c51ba4261d6b3"
+
+[update]
+[update.modrinth]
+mod-id = "BBsjOFmz"
+version = "PYLOhGHx"
