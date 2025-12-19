@@ -1,6 +1,7 @@
 name = "QDAA"
 filename = "qdaa-1.1.2.jar"
 side = "client"
+
 [option]
 optional = "true"
 description = "Client sided mod for anti-aliasing (removes jagged edges), may make text too smooth"
