@@ -4199,6 +4199,11 @@ hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
 metafile = true
 
 [[files]]
+file = "mods/qdaa.pw.toml"
+hash = "fdc7a408e64cd832c1715b04acd4cd2498ea3cb58cd9193c38dced4933f3b14f"
+metafile = true
+
+[[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "6054f41427006d33365bf20810e5c6ad7e7e3019ece736b39b0c45ddf438cd4e"
 metafile = true
@@ -4241,6 +4246,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "964da9ed4bdd490258a05d249e13b8d90d82f71591c793bc93e29840e4e9fe1b"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "ac3aecaa7398c0b9dcb46abdaa1826562ea1494de43c740b6c7a8d5abd139420"
 metafile = true
 
 [[files]]
