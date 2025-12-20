@@ -4054,16 +4054,6 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
-file = "mods/midnightcontrols.pw.toml"
-hash = "c8615f9ffa0aca1cbc721a3095b24a1e719936c44d715c6a6cae0a24a3d9c7ee"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "866baeb7e9917b92825ddbcf4d113648a6662b5214e078b29c327ff97d0e2774"
-metafile = true
-
-[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "82115b225d34a1db96ae88f9979a7161b296aa6997e02d8ca71daf94bf4f2e7c"
 metafile = true
@@ -4401,6 +4391,11 @@ metafile = true
 [[files]]
 file = "mods/unbad-redstone.pw.toml"
 hash = "7f135d38417a9b386aceec08aa0e47993c5048b1775a90f5cca6ca3dd5b673c2"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "aa4feea88ef3f783c5c3481b80d1f8a2ff3c4155dba7f4dc0f9755fc12d1f732"
 metafile = true
 
 [[files]]
