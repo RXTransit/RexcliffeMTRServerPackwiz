@@ -1,0 +1,13 @@
+name = "Waifu Villagers"
+filename = "§f! §dWaifu Villagers v1§f.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bdWBcmH4/versions/g1ynxEG9/%C2%A7f%21%20%C2%A7dWaifu%20Villagers%20v1%C2%A7f.zip"
+hash-format = "sha512"
+hash = "fe9363d823b22c4aa01ddf3a78c8bbaf30e9b51504a074102102beaa49d4d35072f74b4b6f11a3f90e78d97ff181810d929f40cf86fa5e78bb870d3d3d9cc0eb"
+
+[update]
+[update.modrinth]
+mod-id = "bdWBcmH4"
+version = "g1ynxEG9"

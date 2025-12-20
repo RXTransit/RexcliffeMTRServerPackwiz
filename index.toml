@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "faf2363c4eff063fc52efbd2e8be7429b397492c9599052d34052c3ddeeb096c"
+hash = "c6dce99f7d94c439680a4d13324dd6f912b8b42a764f6c667fda910face2a5b0"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -46,6 +46,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/barebones-x-trafficcraft-asphalt.pw.toml"
 hash = "3b905eda481f342b9eb5721a1ef32fc8935b3866f6334860d7b5ce2ca6351a5e"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/better-leaves-bare-bones.pw.toml"
+hash = "90f6c1a2c4a47fadb956342ae2720e4f43c8d817a0d30fa27586dfe941db9d33"
 metafile = true
 
 [[files]]
@@ -151,6 +156,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/vdlenglish.pw.toml"
 hash = "61ba981b09d062952dcd0dd3f90a95c055a3f9278be7fa3a3b39879aea6a73fd"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/waifu_villagers.pw.toml"
+hash = "86a182a681ae566ec280c0525613cfccc80c29b73929e280a25a7460d195cd37"
 metafile = true
 
 [[files]]
