@@ -1,0 +1,13 @@
+name = "Controller Support Mod"
+filename = "Controller Support-1.20.1-9.0.3-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2emUKbOT/versions/GgjhNcWP/Controller%20Support-1.20.1-9.0.3-Fabric.jar"
+hash-format = "sha512"
+hash = "a773f2cb2ad3f172705b46b49c3773c88a518788dcbb0081013194e9f530fce69b97c6955f47b9d5d7888779c9ab0ff938423084a04f12914997e579e64e2771"
+
+[update]
+[update.modrinth]
+mod-id = "2emUKbOT"
+version = "GgjhNcWP"

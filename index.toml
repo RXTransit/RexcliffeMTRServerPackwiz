@@ -3684,8 +3684,8 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "a1cd367df21e2a8ec5f99a3fafab021f927bdfb088cc518d8225b02078f36728"
+file = "mods/controllermod.pw.toml"
+hash = "c82ae604b5cde8989a61e88e9a788c9f14f7c5177b640b8fbd87d402806b5fde"
 metafile = true
 
 [[files]]
@@ -4406,6 +4406,11 @@ metafile = true
 [[files]]
 file = "mods/unbad-redstone.pw.toml"
 hash = "7f135d38417a9b386aceec08aa0e47993c5048b1775a90f5cca6ca3dd5b673c2"
+metafile = true
+
+[[files]]
+file = "mods/unionlib.pw.toml"
+hash = "cbde9bfa3c81ec02be213954a0fcf19aacad1d75eaa15081c7b2ff32ae2a5b76"
 metafile = true
 
 [[files]]
