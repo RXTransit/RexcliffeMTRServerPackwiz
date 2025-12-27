@@ -1,6 +1,6 @@
 name = "Filters API"
 filename = "FABRIC-1.0.0+1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/naBrvjcq/versions/uDdCQwzY/FABRIC-1.0.0%2B1.20.1.jar"
