@@ -1,8 +1,0 @@
-name = "barebones-ctm"
-filename = "BareBonesCTM.zip"
-side = "client"
-
-[download]
-url = "https://www.dropbox.com/scl/fi/y1wmpi72eud85smik07yj/BareBonesCTM.zip?rlkey=jl0ytu0s232dzkqpjpzo1fo5o&st=528boczi&dl=1"
-hash-format = "sha256"
-hash = "afe9fbe1123a551ba16851f031d513c853cb135288d462771e82311e130a65ad"

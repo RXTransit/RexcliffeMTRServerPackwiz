@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "ddf08dc854161f765809abc4614b4cbd4a6adb8371e9dcb60e53a870c88a93ec"
+hash = "ce3736867ef4a8b7adf3f9477eb368075f621f86db0f29ed83f9ba5ac1b64b9e"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -19,38 +19,8 @@ hash = "48a3e1e42b6ba19b0b18bf3059e0825954e6550285c4169b3fc8f1fadf291147"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/bare-bones-x-eating-animation.pw.toml"
-hash = "9fdbcf0c7c6f989dc0f910b3c7343d1872db1f1afbde36bbbd1bb3e4bad2d4a2"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/bare-bones-x-fresh-animations.pw.toml"
-hash = "35a47cff0408299315cc2cb731376dcf48119035a55ac1caa61693eb06d89672"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/bare-bones.pw.toml"
-hash = "dc14773605ec2aaba3dabe92bfb6269e2a3fa95116630b8ce51efeff3a54468e"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/bare-metals.pw.toml"
-hash = "76fc515811ae4f6230e40a734e11d1dd7e0da7b09dd1db776fe44d60a1acb8bc"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/barebones-ctm.pw.toml"
-hash = "858590db6a494827790ccca3002ab24cdcea4a31c43e6b134bbfa87464b8e01f"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/barebones-x-trafficcraft-asphalt.pw.toml"
 hash = "3b905eda481f342b9eb5721a1ef32fc8935b3866f6334860d7b5ce2ca6351a5e"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/better-leaves-bare-bones.pw.toml"
-hash = "90f6c1a2c4a47fadb956342ae2720e4f43c8d817a0d30fa27586dfe941db9d33"
 metafile = true
 
 [[files]]
@@ -101,11 +71,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/metronet-logo-for-mtr.pw.toml"
 hash = "fb05a94805ed6f31febe38fd0221ba85325dd2ba1935d64f1df55027d45aa9a9"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/modded-bare-bones.pw.toml"
-hash = "e10b58f6a87f0831cbf4083cccaf01fab9e16880be994f627e09ab59db45b743"
 metafile = true
 
 [[files]]
