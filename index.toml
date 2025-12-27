@@ -3859,11 +3859,6 @@ hash = "c2282eef8da145084f74dc1a9f34e1c894f74569a6edde383912c2e014143322"
 metafile = true
 
 [[files]]
-file = "mods/flashlight-creepermeyt.pw.toml"
-hash = "34c6b48707086737fc3f6849e7936aa2bf38142c460bfc8ef66003ebc15591c8"
-metafile = true
-
-[[files]]
 file = "mods/fnafs-decorations-java.pw.toml"
 hash = "800304d83d359fba14c32296dbd1e56f7c1f16e33f80fab5be6dc89a7420a88e"
 metafile = true
@@ -3931,6 +3926,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/item-blacklist.pw.toml"
+hash = "481c05ae0be01b3f221a516982f62fe2c088a39af57f19f709e53099020bb08d"
 metafile = true
 
 [[files]]
