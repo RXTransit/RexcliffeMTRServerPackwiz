@@ -1,6 +1,6 @@
 name = "asphaltfix"
 filename = "AsphaltFix.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/iix6ceeoposyrrfauko7b/AsphaltFix.zip?rlkey=ul7voxnlp8t8gc08aggbq8aba&st=k0o5qrpt&dl=1"

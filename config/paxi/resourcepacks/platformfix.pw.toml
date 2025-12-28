@@ -1,6 +1,6 @@
 name = "platformfix"
 filename = "PlatformFix.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://www.dropbox.com/scl/fi/ue7jx4br8oprdobigmnul/PlatformFix.zip?rlkey=cez5bmlut9m07r0s3mxq827w0&st=c7kly5f8&dl=1"

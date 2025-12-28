@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/asphaltfix.pw.toml"
-hash = "deabda506d0f0ed9cd1b41661b2eb40acdb8e717600cfe5c30481b2285b7ff48"
+hash = "034d2e932533feb06f27aa895750463cf77366864d7da837c0abfdb541c96025"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/platformfix.pw.toml"
-hash = "285d09e207c0ac818b14c7229b0c4bcc06e0c9de03e26d2faf04ded98feaa1f6"
+hash = "9fd6eb988eb532ec511eeba8dd3a52794761c69a9e1c3d25353dfa2ff645e0cf"
 metafile = true
 
 [[files]]
