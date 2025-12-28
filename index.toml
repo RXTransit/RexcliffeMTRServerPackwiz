@@ -4389,11 +4389,6 @@ hash = "1d954e3b9985b3434b38bf84d8a4a615180aa1b0dc2c4088e06f37bfbb879067"
 metafile = true
 
 [[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "a56025e9fd5564e878919fb5cb810696404e24fed36e3fe2cd11d9d5be124a2b"
-metafile = true
-
-[[files]]
 file = "mods/whoami.pw.toml"
 hash = "4699fabbe15d1e3ed9fe074cc66c12510896bdc47ea94c2dedd1788738c43b4b"
 metafile = true
