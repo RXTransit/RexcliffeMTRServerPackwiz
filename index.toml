@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "d2c07814b4560c8a581c55a04ee79b37530a52f4dd13805e74cbcc162eb65684"
+hash = "73ef4ce0736f00cc8318facae9c2e899fef25af9a0301d801613e2d291a990a4"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -86,6 +86,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/npcspiderhider.pw.toml"
 hash = "b962537109ee58eac3480d1a90fa4ddd078db63efd6cf9962903da3252c0edcb"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/perth.pw.toml"
+hash = "52511c65d558c1018fc591ab8756d5de8a3df7d44a3135b4e1e8da246eaa6bf3"
 metafile = true
 
 [[files]]

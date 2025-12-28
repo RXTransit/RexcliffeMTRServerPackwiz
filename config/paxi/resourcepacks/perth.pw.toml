@@ -1,0 +1,8 @@
+name = "perth"
+filename = "TransperthAandBV4.zip"
+side = "client"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/odzt87udbse9aebwpxim8/TransperthAandBV4.zip?rlkey=xmbfoyd0ecjk5p5xufo0owkk8&st=odk43shz&dl=1"
+hash-format = "sha256"
+hash = "fc2a324d269475ca0c92ec2fac13219d0ac2dc27512edc5cadc4a8bf0ee117c3"
