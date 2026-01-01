@@ -3563,11 +3563,6 @@ hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "4780df2e8d01122c7f5aedee4b8bff93a05c635dc2353fe133cc461a1f51c1f2"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
 metafile = true
@@ -3600,6 +3595,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "ade96e54f3cc61a9a64356f522f8527f15a20518fe9a782229af7423358fc017"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "cf1f8e6187d6a8411a1701a5a231c58e8805f8376ce3caa5ed8c0d64c724a77e"
 metafile = true
 
 [[files]]
@@ -3909,7 +3909,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "e2290a76ff804f689d38070ff8095ea5cf9a6f121871704f17e5d0a1053368d9"
+hash = "e1a1a0b30b4b7b176ed04905970e41cdc9a43489448f93c0f36ceff720352141"
 metafile = true
 
 [[files]]
