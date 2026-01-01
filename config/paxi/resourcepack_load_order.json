@@ -1,7 +1,6 @@
 {
     "loadOrder": [
         "vanilla",
-        "fabric",
         "minecraft:supporteatinganimation",
 		"continuity:glass_pane_culling_fix",
         "Moonlight Mods Dynamic Assets",
@@ -14,8 +13,7 @@
         "VDL_English.zip",
         "windowlesslift.zip",
 		"mtr4_turbostar_pack.zip",
-		"MTR_srt_New_Zealand_trains_4.0_250523.zip",
-		"Avanti West Coast Super Voyager.zip",
+		"TransperthAandBV4.zip",
 		"TransperthLogo4MTR.zip",
 		"Stepford Metrocar.zip",
 		"Clean_Connected_Glass(1.20).zip",
@@ -29,7 +27,6 @@
 		"PlatformFix.zip",
 		"Aimz - Sniper Crosshair.zip",
 		"connected_hotbar_dark_1.20.0-1_v1.zip",
-		"TransperthAandBV4.zip",
 		"--user--"
     ]
 }
