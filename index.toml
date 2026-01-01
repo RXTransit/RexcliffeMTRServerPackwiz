@@ -3548,6 +3548,11 @@ hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "2b153d649184fcf793de475b3b3beaf238f7b558226ffc57896096a7ddcd99ad"
 metafile = true
@@ -4010,11 +4015,6 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
 metafile = true
 
 [[files]]
