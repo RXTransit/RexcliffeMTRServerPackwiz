@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "cc3e571b86ed960edcded34708392c759aade9198b27c032e080dd16dea6df10"
+hash = "6ebbd8b0001f0c822db9ab723f31b1e15dcafd44aaa0c9b48e4e45fd40a87130"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -76,6 +76,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/mtr-yutong-retexture.pw.toml"
 hash = "282af0fca77016cf76823ac799a09051cb4698d6062eeebb239d16bb2deae95b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mtr1067mm_rail.pw.toml"
+hash = "172e07a2445bba2624eacd9594a08293fd0bb317177f25aa5d60b887ba4b6a8f"
 metafile = true
 
 [[files]]

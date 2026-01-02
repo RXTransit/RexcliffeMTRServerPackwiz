@@ -1,0 +1,13 @@
+name = "[MTR3/4] Non Standard Gauge Rail"
+filename = "MTR_non_standard_rail_4.0_250318.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/R1THHM3B/versions/CrLZptOx/MTR_non_standard_rail_4.0_250318.zip"
+hash-format = "sha512"
+hash = "871d15c074a00221154e286e268cb8a57d37eae18afacd2e195279bae59b088c2d456aea3a1c97831d9e1a91e3fcf3584dde13e0c1fe21a572f496c6d45c4810"
+
+[update]
+[update.modrinth]
+mod-id = "R1THHM3B"
+version = "CrLZptOx"
