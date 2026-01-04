@@ -1,0 +1,13 @@
+name = "[MTR3/4]JR Trains Pack"
+filename = "MTR_srt_JRTrains_4.0_250419.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mDCv77tr/versions/NcAaXbvd/MTR_srt_JRTrains_4.0_250419.zip"
+hash-format = "sha512"
+hash = "a374856a9af36084ad2a3ad44fe7471f831e73880c4f827c6270fba5b7e221f119a21677a2cf407ddef4c9ce0be28b88f2cc60e0cc08f4283964cc97b5cb32e8"
+
+[update]
+[update.modrinth]
+mod-id = "mDCv77tr"
+version = "NcAaXbvd"
