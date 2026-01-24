@@ -3829,7 +3829,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "21c3264543db261d2b7fca1b0debbae16d11a1945999ff1dfa51551fec381bbf"
+hash = "45f59d9033937ce20492d1925d8851dcff4e16a395c950517ce8b4b903004a1c"
 metafile = true
 
 [[files]]
@@ -4309,7 +4309,7 @@ metafile = true
 
 [[files]]
 file = "mods/takeaseat.pw.toml"
-hash = "82e0ea125db1f63edea6ef75bff309cb9daeea0329070e5b9d1a7c43656d6953"
+hash = "0d8c6a9c976dc98c34ee609a8f67764f0bf18426acddb3366f3f6fd83614365b"
 metafile = true
 
 [[files]]
