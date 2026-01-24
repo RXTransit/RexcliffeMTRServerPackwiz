@@ -1,6 +1,6 @@
 name = "TakeASeat"
 filename = "TakeASeat-1.0.2+mc1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/VLMe7pfI/versions/TTFzdXEg/TakeASeat-1.0.2%2Bmc1.20.1.jar"
